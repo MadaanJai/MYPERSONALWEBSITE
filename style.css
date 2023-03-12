@@ -1,6 +1,7 @@
 h1 {
 
     color: #0000ff;
+    text-align: center
 
   
 
@@ -12,7 +13,7 @@ h1 {
 
 body{
 
-    background-color:#FFDFF7;
+    background-color:'white';
 
   }
 
@@ -35,7 +36,7 @@ body{
 }
 
 .secheader{
-    background-color: #add8e6;
+    background-color: 'cyan';
 
     display: flex;
 
