@@ -21,13 +21,13 @@ body{
 
 .header{
 
-    background-color: #add8e6;
+    background-color: #FF00FF;
 
     display: flex;
 
     justify-content: space-between;
 
-
+text-align: center;
 
  
 
@@ -36,7 +36,7 @@ body{
 }
 
 .secheader{
-    background-color: 'cyan';
+    background-color: 'yellow';
 
     display: flex;
 
