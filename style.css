@@ -13,7 +13,7 @@ h1 {
 
 body{
 
-    background-color:'white';
+    background-color:"white";
 
   }
 
@@ -21,7 +21,7 @@ body{
 
 .header{
 
-    background-color: #FF00FF;
+    background-color: "cyan";
 
     display: flex;
 
@@ -36,7 +36,7 @@ text-align: center;
 }
 
 .secheader{
-    background-color: 'yellow';
+    background-color: "yellow";
 
     display: flex;
 
